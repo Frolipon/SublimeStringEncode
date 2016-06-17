@@ -1,5 +1,6 @@
 [
     {
+        "keys": ["ctrl+shift+alt+e"],
         "caption": "StringEncode: HTML Entitize",
         "command": "html_entitize"
     },
